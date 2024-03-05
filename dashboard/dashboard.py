@@ -8,7 +8,7 @@ import calendar
 
 sns.set(style='dark')
 
-day_df = pd.read_csv('day.csv')
+day_df = pd.read_csv('dashboard/day.csv')
 
 st.title('Proyek Analisis Data: [Bike Sharing Dataset]')
 
